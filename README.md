@@ -4,7 +4,7 @@ Hi 👋, I’m Srihari
 
 📍 Chennai, India. 📫 Email: jshari.jothi@gmail.com
 
-🌐 Portfolio: https://dev-portfolio-js.netlify.com
+🌐 Portfolio: https://dev-portfolio-js.netlify.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/jshari01/
 

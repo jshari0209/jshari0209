@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi 👋, I’m Srihari
 
-<!--
-**jshari0209/jshari0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏻‍💻 Full Stack Developer 🚀 Building scalable backend systems & modern web applications 🧠 Exploring AI-powered products & intelligent automation 💡 Passionate about clean architecture, performance, and real-world impact
 
-Here are some ideas to get you started:
+📍 Chennai, India. 📫 Email: jshari.jothi@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Portfolio: https://dev-portfolio-js.netlify.com
+
+💼 LinkedIn: https://www.linkedin.com/in/jshari01/
+
+🐙 GitHub: https://github.com/jshari0209
+
+Tech Stack & Languages
+Frontend
+
+React Next JS React Native HTML5 CSS3 TailwindCSS Bootstrap
+
+Backend
+
+Node.js Express.js REST API JWT MySQL MongoDB
+
+Tools
+
+Git GitHub Postman
+
+Programming Languages
+
+Java JavaScript

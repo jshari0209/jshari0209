@@ -10,19 +10,3 @@ Hi 👋, I’m Srihari
 
 🐙 GitHub: https://github.com/jshari0209
 
-Tech Stack & Languages
-Frontend
-
-React Next JS React Native HTML5 CSS3 TailwindCSS Bootstrap
-
-Backend
-
-Node.js Express.js REST API JWT MySQL MongoDB
-
-Tools
-
-Git GitHub Postman
-
-Programming Languages
-
-Java JavaScript
